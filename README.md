@@ -1,3 +1,5 @@
+<img src="Personal Banner.jpg" alt="GitHub Banner" width="100%" />
+
 # Hey there! I'm Benjamin Low
 
 ## About Me  
